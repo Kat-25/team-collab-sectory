@@ -2,3 +2,9 @@
     height: 120px;
     width: auto;
 }
+.bolded{
+    font-weight: bold;
+}
+.back_1{
+    background-color: #D7EDFF;
+}
