@@ -2,5 +2,34 @@
   "name": "mdb-standard-app",
   "version": "6.1.0",
   "homepage": "https://mdbootstrap.com/docs/standard/",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "MDB5 Version: FREE 6.1.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kat-25/team-collab-sectory.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Jade Sumalinog",
+  "bugs": {
+    "url": "https://github.com/Kat-25/team-collab-sectory/issues"
+  },
+  "devDependencies": {
+    "sass": "^1.57.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.2.3",
+    "postcss-cli": "^10.1.0"
+  }
 }
