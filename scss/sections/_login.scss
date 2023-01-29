@@ -20,6 +20,9 @@
       width: 30%;
       padding:100px;
       background-color: $gray-600;
+      @media screen and (max-width: $small) {
+        
+      }
     }
     }
 }
