@@ -10967,12 +10967,11 @@ body {
   width: 100%;
 }
 
-html,
-body {
+.log {
   height: 100%;
 }
 
-body {
+.newlog {
   display: flex;
   align-items: center;
   padding-top: 40px;
@@ -11051,7 +11050,7 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 
-body {
+.newbody {
   font-size: 0.875rem;
 }
 

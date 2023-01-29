@@ -2,12 +2,11 @@
 @use '../components/mixins' as *;
 
 
-html,
-body {
+.log{
   height: 100%;
 }
 
-body {
+.newlog{
   display: flex;
   align-items: center;
   padding-top: 40px;
