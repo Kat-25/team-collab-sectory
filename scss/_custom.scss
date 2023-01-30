@@ -16,5 +16,16 @@ $black:    #000;
 
 $primary:       $blue;
 $secondary:     $cyan;
+
+//Breakpoints
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
 //Import Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap.scss";

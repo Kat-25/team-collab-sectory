@@ -4,10 +4,19 @@
 .Sectorylogo{
   width: 30%;
   height: auto;
+  @include sm{
+    width: 10%;
+    align-items: center;
 }
 .log{
   height: 100%;
   color:$white;
+  @include sm{
+    width: 100%;
+    padding:30px;
+    background-color: $white;
+    height: 20%;
+  }
   main{
     display: flex;
     align-items: center;
@@ -20,9 +29,6 @@
       width: 30%;
       padding:100px;
       background-color: $gray-600;
-      @media screen and (max-width: $small) {
-        
-      }
     }
     }
 }
