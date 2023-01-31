@@ -16,21 +16,22 @@ $gray-800: #5a5c69 !default;
 $gray-900: #3a3b45 !default;
 $black: #000 !default;
 
-$blue: #4e73df !default;
-$indigo: #6610f2 !default;
-$purple: #6f42c1 !default;
-$pink: #e83e8c !default;
-$red: #e74a3b !default;
-$orange: #fd7e14 !default;
-$yellow: #f6c23e !default;
-$green: #1cc88a !default;
-$teal: #20c9a6 !default;
-$cyan: #36b9cc !default;
+$blue: #a4b7f0 ;
+$indigo: #6610f2 ;
+$purple: #6f42c1 ;
+$pink: #e83e8c ;
+$red: #e74a3b ;
+$orange: #fd7e14 ;
+$yellow: #f6c23e ;
+$green: #1cc88a ;
+$teal: #20c9a6 ;
+$cyan: #36b9cc ;
 
 // Custom Colors
-$brand-google: #ea4335 !default;
-$brand-facebook: #3b5998 !default;
-
+$brand-google: #ea4335;
+$brand-facebook: #3b5998 ;
+$primaryt:  #140145 ;
+$secondary: $indigo;
 // Set Contrast Threshold
 $yiq-contrasted-threshold: 195 !default;
 
