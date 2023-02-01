@@ -9,8 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <link rel="icon" href="../img/SecTorylogo.png" type="image/x-icon" />
-    <title>Sectory - Dashboard</title>
+    <?php 
+        include '../Resident/sectoryheader.php';
+    ?>
 
     <!-- Custom fonts for this template-->
     <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
