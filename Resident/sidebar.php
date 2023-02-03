@@ -59,7 +59,7 @@
                 data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <!-- <h6 class="collapse-header">Certification:</h6> -->
-                    <a class="collapse-item" href="utilities-color.html">Indigency</a>
+                    <a class="collapse-item" href="../Residentpages/Indigency.php">Indigency</a>
                     <a class="collapse-item" href="utilities-border.html">Residency</a>
                     <a class="collapse-item" href="utilities-animation.html">Cedula</a>
                     <a class="collapse-item" href="utilities-other.html">Clearance</a>
