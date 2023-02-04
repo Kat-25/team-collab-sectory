@@ -248,24 +248,22 @@
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
-                <div class="container-fluid">
 
                         <?php
                             include '../sections/steps.php';
                         ?>
-                    </div>
 
                 </div>
                 <!-- /.container-fluid -->
-             <!-- Footer -->
-             <?php
-                include '../Resident/footer.php';
-            ?>
-            <!-- End of Footer -->
+
+            </div>
+            <!-- End of Main Content -->
             </div>
         </div>
-            <!-- End of Main Content -->
-
+        <!-- End of Content Wrapper -->
+        <?php
+                                include '../Resident/footer.php';
+                            ?>
     </div>
     <!-- End of Page Wrapper -->
 
@@ -273,13 +271,10 @@
     <a class="scroll-to-top rounded" href="#page-top">
         <i class="fas fa-angle-up"></i>
     </a>
-
-    <?php
-        include '../Resident/logout.php';
-    ?>
-
     <!-- Logout Modal-->
-
+                        <?php
+                            include '../Resident/logout.php';
+                        ?>
 
     <!-- Bootstrap core JavaScript-->
     <script src="../vendor/jquery/jquery.min.js"></script>

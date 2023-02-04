@@ -84,21 +84,6 @@
                                             <label class="pay">Expiry Date*</label>
                                         </div>
                                         <div class="col-9">
-                                            <select class="list-dt" id="month" name="expmonth">
-                                                <option selected>Month</option>
-                                                <option>January</option>
-                                                <option>February</option>
-                                                <option>March</option>
-                                                <option>April</option>
-                                                <option>May</option>
-                                                <option>June</option>
-                                                <option>July</option>
-                                                <option>August</option>
-                                                <option>September</option>
-                                                <option>October</option>
-                                                <option>November</option>
-                                                <option>December</option>
-                                            </select>
                                             <select class="list-dt" id="year" name="expyear">
                                                 <option selected>Year</option>
                                             </select>

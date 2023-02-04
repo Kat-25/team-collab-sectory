@@ -248,28 +248,22 @@
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
-                <div class="container-fluid">
 
                         <?php
                             include '../sections/steps.php';
                         ?>
-                    </div>
 
                 </div>
                 <!-- /.container-fluid -->
 
             </div>
             <!-- End of Main Content -->
-
-            <!-- Footer -->
-            <?php
-                include '../Resident/footer.php';
-            ?>
-            <!-- End of Footer -->
-
+            </div>
         </div>
         <!-- End of Content Wrapper -->
-
+        <?php
+                                include '../Resident/footer.php';
+                            ?>
     </div>
     <!-- End of Page Wrapper -->
 
@@ -278,13 +272,13 @@
         <i class="fas fa-angle-up"></i>
     </a>
 
-    <?php
-        include '../Resident/logout.php';
-    ?>
+                        <?php
+                            include '../Resident/logout.php';
+                        ?>
 
     <!-- Logout Modal-->
 
-
+    
     <!-- Bootstrap core JavaScript-->
     <script src="../vendor/jquery/jquery.min.js"></script>
     <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

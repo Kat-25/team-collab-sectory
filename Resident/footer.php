@@ -4,4 +4,4 @@
                         <span>Copyright &copy; Sectory 2023</span>
                     </div>
                 </div>
-            </footer>
+</footer>

@@ -248,28 +248,22 @@
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->
-                <div class="container-fluid">
 
                         <?php
                             include '../sections/steps.php';
                         ?>
-                    </div>
 
                 </div>
                 <!-- /.container-fluid -->
 
             </div>
             <!-- End of Main Content -->
-
-            <!-- Footer -->
-                            <?php
-                                include '../Resident/footer.php';
-                            ?>
-            <!-- End of Footer -->
-
+            </div>
         </div>
         <!-- End of Content Wrapper -->
-
+        <?php
+                                include '../Resident/footer.php';
+                            ?>
     </div>
     <!-- End of Page Wrapper -->
 
