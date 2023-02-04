@@ -257,18 +257,14 @@
 
                 </div>
                 <!-- /.container-fluid -->
-
-            </div>
-            <!-- End of Main Content -->
-
-            <!-- Footer -->
-            <?php
+             <!-- Footer -->
+             <?php
                 include '../Resident/footer.php';
             ?>
             <!-- End of Footer -->
-
+            </div>
         </div>
-        <!-- End of Content Wrapper -->
+            <!-- End of Main Content -->
 
     </div>
     <!-- End of Page Wrapper -->

@@ -3,22 +3,24 @@
     <div class="row justify-content-center mt-0">
         <div class="col-11 col-sm-9 col-md-7 col-lg-6 text-center p-0 mt-3 mb-2">
             <div class="card px-0 pt-4 pb-0 mt-3 mb-3">
-                <h2><strong>Sign Up Your User Account</strong></h2>
+                <h2><strong>Certificate</strong></h2>
                 <p>Fill all form field to go to next step</p>
                 <div class="row">
                     <div class="col-md-12 mx-0">
                         <form id="msform">
                             <!-- progressbar -->
                             <ul id="progressbar">
-                                <li class="active" id="account"><strong>Account</strong></li>
-                                <li id="personal"><strong>Personal</strong></li>
-                                <li id="payment"><strong>Payment</strong></li>
-                                <li id="confirm"><strong>Finish</strong></li>
+                                <li class="active" id="account"><strong>Personal Information</strong></li>
+                                <li id="personal"><strong>Educational Background</strong></li>
+                                <li id="payment"><strong>Family Background</strong></li>
+                                <li id="payment"><strong>Contanct Information</strong></li>
+                                <li id="confirm"><strong>Upload Evidence</strong></li>
                             </ul>
+                            
                             <!-- fieldsets -->
                             <fieldset>
                                 <div class="form-card">
-                                    <h2 class="fs-title">Account Information</h2>
+                                    <h2 class="fs-title">Personal Information</h2>
                                     <input type="email" name="email" placeholder="Email Id"/>
                                     <input type="text" name="uname" placeholder="UserName"/>
                                     <input type="password" name="pwd" placeholder="Password"/>
@@ -28,7 +30,17 @@
                             </fieldset>
                             <fieldset>
                                 <div class="form-card">
-                                    <h2 class="fs-title">Personal Information</h2>
+                                    <h2 class="fs-title">Educational Background</h2>
+                                    <input type="email" name="email" placeholder="Email Id"/>
+                                    <input type="text" name="uname" placeholder="UserName"/>
+                                    <input type="password" name="pwd" placeholder="Password"/>
+                                    <input type="password" name="cpwd" placeholder="Confirm Password"/>
+                                </div>
+                                <input type="button" name="next" class="next action-button" value="Next Step"/>
+                            </fieldset>
+                            <fieldset>
+                                <div class="form-card">
+                                    <h2 class="fs-title">Family Background</h2>
                                     <input type="text" name="fname" placeholder="First Name"/>
                                     <input type="text" name="lname" placeholder="Last Name"/>
                                     <input type="text" name="phno" placeholder="Contact No."/>
@@ -39,7 +51,17 @@
                             </fieldset>
                             <fieldset>
                                 <div class="form-card">
-                                    <h2 class="fs-title">Payment Information</h2>
+                                    <h2 class="fs-title">Contanct Information</h2>
+                                    <input type="email" name="email" placeholder="Email Id"/>
+                                    <input type="text" name="uname" placeholder="UserName"/>
+                                    <input type="password" name="pwd" placeholder="Password"/>
+                                    <input type="password" name="cpwd" placeholder="Confirm Password"/>
+                                </div>
+                                <input type="button" name="next" class="next action-button" value="Next Step"/>
+                            </fieldset>
+                            <fieldset>
+                                <div class="form-card">
+                                    <h2 class="fs-title">Upload Evidence</h2>
                                     <div class="radio-group">
                                         <div class='radio' data-value="credit"><img src="https://i.imgur.com/XzOzVHZ.jpg" width="200px" height="100px"></div>
                                         <div class='radio' data-value="paypal"><img src="https://i.imgur.com/jXjwZlj.jpg" width="200px" height="100px"></div>
