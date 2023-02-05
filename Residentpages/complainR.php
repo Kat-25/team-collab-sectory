@@ -288,8 +288,8 @@
                                     </div>
                                     <div class="form-row">
                                         <div class="form-group col-md-6">
-                                        <label for="inputCity">Complaint Title</label>
-                                        <input type="text" class="form-control" id="inputCity">
+                                        <label for="">Complaint Title</label>
+                                        <input type="text" class="form-control" id="">
                                         </div>
                                         <div class="form-group col-md-4">
                                         <label for="inputState">Level of complain:</label>
@@ -319,17 +319,16 @@
             </div>
             <!-- End of Main Content -->
 
-            <!-- Footer -->
-            <?php
+        </div>
+        <!-- End of Content Wrapper -->
+           
+    </div>
+    <!-- End of Page Wrapper -->
+         <!-- Footer -->
+         <?php
                 include '../Resident/footer.php';
             ?>
             <!-- End of Footer -->
-
-        </div>
-        <!-- End of Content Wrapper -->
-
-    </div>
-    <!-- End of Page Wrapper -->
 
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded" href="#page-top">

@@ -288,11 +288,10 @@
             <!-- End of Main Content -->
             </div>
             <!-- End of Main Content -->
-
-            <!-- Footer -->
+                 <!-- Footer -->
             <?php
-               include '../Resident/footer.php';
-              ?>
+                include '../Resident/footer.php';
+            ?>
             <!-- End of Footer -->
 
         </div>
@@ -300,7 +299,6 @@
 
     </div>
     <!-- End of Page Wrapper -->
-
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded" href="#page-top">
         <i class="fas fa-angle-up"></i>
