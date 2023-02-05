@@ -21,72 +21,90 @@
                             <fieldset>
                                 <div class="form-card">
                                     <h2 class="fs-title">Personal Information</h2>
-                                    <input type="email" name="email" placeholder="Email Id"/>
-                                    <input type="text" name="uname" placeholder="UserName"/>
-                                    <input type="password" name="pwd" placeholder="Password"/>
-                                    <input type="password" name="cpwd" placeholder="Confirm Password"/>
+                                    <input type="text" name="fname" placeholder="First Name"/>
+                                    <input type="text" name="fname" placeholder="Last Name"/>
+                                    <input type="text" name="fname" placeholder="Middile Name"/>
+                                    <input type="text" name="fname" placeholder="Suffix"/>
+                                    <select id="" class="form-control mb-3">
+                                            <option selected>Gender...</option>
+                                            <option>male</option>
+                                            <option>female</option>
+                                    </select> 
+                                    <input type="text" name="fname" placeholder="Birth Date"/>
+                                    <input type="text" name="fname" placeholder="Birth Place"/>
+                                    <input type="text" name="fname" placeholder="Age"/>
+                                    <select id="" class="form-control mb-3">
+                                            <option selected>Civil Status..</option>
+                                            <option>Married</option>
+                                            <option>Single</option>
+                                            <option>Widowed</option>
+                                    </select> 
+                                    <input type="text" name="fname" placeholder="Occupation"/>
+                                    <input type="text" name="fname" placeholder="Blood Type"/>
+                                    <input type="text" name="fname" placeholder="Religion"/>
+                                    <input type="text" name="fname" placeholder="Weight(kg)"/>
+                                    <input type="text" name="fname" placeholder="Height(cm)"/>
+                                    <input type="text" name="fname" placeholder="Citizenship"/>
                                 </div>
                                 <input type="button" name="next" class="next action-button" value="Next Step"/>
                             </fieldset>
                             <fieldset>
                                 <div class="form-card">
                                     <h2 class="fs-title">Educational Background</h2>
-                                    <input type="email" name="email" placeholder="Email Id"/>
-                                    <input type="text" name="uname" placeholder="UserName"/>
-                                    <input type="password" name="pwd" placeholder="Password"/>
-                                    <input type="password" name="cpwd" placeholder="Confirm Password"/>
-                                </div>
-                                <input type="button" name="next" class="next action-button" value="Next Step"/>
-                            </fieldset>
-                            <fieldset>
-                                <div class="form-card">
-                                    <h2 class="fs-title">Family Background</h2>
-                                    <input type="text" name="fname" placeholder="First Name"/>
-                                    <input type="text" name="lname" placeholder="Last Name"/>
-                                    <input type="text" name="phno" placeholder="Contact No."/>
-                                    <input type="text" name="phno_2" placeholder="Alternate Contact No."/>
+                                    <h6 class="">Primary School</h6>
+                                    <input type="text" name="fname" placeholder="Name of School"/>
+                                    <input type="text" name="fname" placeholder="Year Graduated"/>
+                                    <h6 class="">Secondary School</h6>
+                                    <input type="text" name="fname" placeholder="Name of School"/>
+                                    <input type="text" name="fname" placeholder="Year Graduated"/>
+                                    <h6 class="">Tertiary School</h6>
+                                    <input type="text" name="fname" placeholder="Name of School"/>
+                                    <input type="text" name="fname" placeholder="Year Graduated"/>
                                 </div>
                                 <input type="button" name="previous" class="previous action-button-previous" value="Previous"/>
                                 <input type="button" name="next" class="next action-button" value="Next Step"/>
                             </fieldset>
                             <fieldset>
                                 <div class="form-card">
-                                    <h2 class="fs-title">Contanct Information</h2>
-                                    <input type="email" name="email" placeholder="Email Id"/>
-                                    <input type="text" name="uname" placeholder="UserName"/>
-                                    <input type="password" name="pwd" placeholder="Password"/>
-                                    <input type="password" name="cpwd" placeholder="Confirm Password"/>
+                                    <h2 class="fs-title">Family Background</h2>
+                                    <h6 class="">Father's Name</h6>
+                                    <input type="text" name="fname" placeholder="First Name"/>
+                                    <input type="text" name="lname" placeholder="Last Name"/>
+                                    <input type="text" name="fname" placeholder="Middle Name"/>
+                                    <input type="text" name="fname" placeholder="Suffix"/>
+                                    <h6 class="">Mother's (Maiden Name)</h6>
+                                    <input type="text" name="fname" placeholder="First Name"/>
+                                    <input type="text" name="lname" placeholder="Last Name"/>
+                                    <input type="text" name="fname" placeholder="Middle Name"/>
+                                    <input type="text" name="phno_2" placeholder="Suffix"/>
                                 </div>
+                                <input type="button" name="previous" class="previous action-button-previous" value="Previous"/>
+                                <input type="button" name="next" class="next action-button" value="Next Step"/>
+                            </fieldset>
+                            <fieldset>
+                                <div class="form-card">
+                                    <h2 class="fs-title">Contact Information</h2>
+                                    <input type="email" name="fname" placeholder="Permanent Address"/>
+                                    <input type="text" name="fname" placeholder="Present Address"/>
+                                    <input type="password" name="phno_2" placeholder="Contact number"/>
+                                </div>
+                                <input type="button" name="previous" class="previous action-button-previous" value="Previous"/>
                                 <input type="button" name="next" class="next action-button" value="Next Step"/>
                             </fieldset>
                             <fieldset>
                                 <div class="form-card">
                                     <h2 class="fs-title">Upload Evidence</h2>
                                     <div class="radio-group">
-                                        <div class='radio' data-value="credit"><img src="https://i.imgur.com/XzOzVHZ.jpg" width="200px" height="100px"></div>
-                                        <div class='radio' data-value="paypal"><img src="https://i.imgur.com/jXjwZlj.jpg" width="200px" height="100px"></div>
-                                        <br>
-                                    </div>
-                                    <label class="pay">Card Holder Name*</label>
-                                    <input type="text" name="holdername" placeholder=""/>
-                                    <div class="row">
-                                        <div class="col-9">
-                                            <label class="pay">Card Number*</label>
-                                            <input type="text" name="cardno" placeholder=""/>
-                                        </div>
-                                        <div class="col-3">
-                                            <label class="pay">CVC*</label>
-                                            <input type="password" name="cvcpwd" placeholder="***"/>
-                                        </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-3">
-                                            <label class="pay">Expiry Date*</label>
-                                        </div>
                                         <div class="col-9">
-                                            <select class="list-dt" id="year" name="expyear">
-                                                <option selected>Year</option>
-                                            </select>
+                                            
+                                                <div class="form-group">
+                                                    <label for="exampleFormControlFile1">Example file input</label>
+                                                    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                                                </div> 
+                                        </div>
+                                        <div class="col-3">
                                         </div>
                                     </div>
                                 </div>
@@ -105,7 +123,7 @@
                                     <br><br>
                                     <div class="row justify-content-center">
                                         <div class="col-7 text-center">
-                                            <h5>You Have Successfully Signed Up</h5>
+                                            <h5>Successfully</h5>
                                         </div>
                                     </div>
                                 </div>
