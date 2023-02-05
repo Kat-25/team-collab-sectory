@@ -32,7 +32,7 @@
 
        <!-- Sidebar -->
      <?php
-         include '../Admin/sidebar.php';
+         include '../BStaff/Bsidebar.php';
      ?>
 
         <!-- Content Wrapper -->

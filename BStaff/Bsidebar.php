@@ -52,7 +52,6 @@
                 data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header"></h6>
-                    <a class="collapse-item" href="utilities-color.html">Barangay Staff</a>
                     <a class="collapse-item" href="utilities-border.html">Resident</a>
                     <a class="collapse-item" href="utilities-animation.html">Household</a>
                     <a class="collapse-item" href="utilities-other.html">Other</a>
@@ -65,7 +64,6 @@
 
         <!-- Heading -->
         <div class="sidebar-heading">
-            Addons
         </div>
 
 
@@ -74,7 +72,7 @@
         <li class="nav-item">
             <a class="nav-link" href="charts.html">
                 <i class="fas fa-fw fa-chart-area"></i>
-                <span>Charts</span></a>
+                <span>Request</span></a>
         </li>
 
 
@@ -82,7 +80,7 @@
         <li class="nav-item">
             <a class="nav-link" href="charts.html">
                 <i class="fas fa-fw fa-chart-area"></i>
-                <span>kat</span></a>
+                <span>Files</span></a>
         </li>
 
 
@@ -90,9 +88,13 @@
         <li class="nav-item">
             <a class="nav-link" href="tables.html">
                 <i class="fas fa-fw fa-table"></i>
-                <span>Tables</span></a>
+                <span>Complaints</span></a>
         </li>
-
+        <li class="nav-item">
+            <a class="nav-link" href="tables.html">
+                <i class="fas fa-fw fa-table"></i>
+                <span>Transaction logs</span></a>
+        </li>
         <!-- Divider -->
         <hr class="sidebar-divider d-none d-md-block">
 
