@@ -90,12 +90,25 @@
                                                             <td>Edinburgh</td>
                                                             <td>61</td>
                                                             <td>2011/04/25</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                                                <td class="d-flex justify-content-center"><a href="../Barangaystaff/complainstaff.php" class="btn btn-success btn-icon-split">
+                                                                    <span class="icon text-white-50">
+                                                                        <i class="fas fa-flag"></i>
+                                                                    </span>
+                                                                    <span class="text">View</span>
+                                                                </a>
+                                                                <a href="../Barangaystaff/complainstaff.php" class="btn btn-primary btn-icon-split">
+                                                                    <span class="icon text-white-50">
+                                                                        <i class="fas fa-flag"></i>
+                                                                    </span>
+                                                                    <span class="text">Edit</span>
+                                                                </a>
+                                                                <a href="../Barangaystaff/complainstaff.php" class="btn btn-danger btn-icon-split">
+                                                                    <span class="icon text-white-50">
+                                                                        <i class="fas fa-flag"></i>
+                                                                    </span>
+                                                                    <span class="text">Archive</span>
+                                                                </a>
+                                                                </td>
                                                         </tr>
                                                         <tr>
                                                             <td>Garrett Winters</td>
