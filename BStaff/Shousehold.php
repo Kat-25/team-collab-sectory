@@ -42,3 +42,11 @@
                     <span class="text">ADD HOUSEHOLD</span>
                     </a></td>
 </div>
+<div class="row d-flex justify-content-center mt-5">
+                                    <a href="" class="btn btn-primary btn-icon-split">
+                                            <span class="icon text-white-50">
+                                            <i class=""></i>
+                                            </span>
+                                            <span class="text">EDIT HOUSEHOLD</span>
+                                            </a></td>
+                        </div>

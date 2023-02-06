@@ -52,7 +52,7 @@
                 data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header"></h6>
-                    <a class="collapse-item" href="utilities-border.html">List of Resident</a>
+                    <a class="collapse-item" href="../Barangaystaff/listofresident.php">List of Resident</a>
                     <a class="collapse-item" href="../Barangaystaff/listofhousehold.php">List of Household</a>
                     <a class="collapse-item" href="utilities-other.html">Other</a>
                 </div>
