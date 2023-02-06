@@ -14,7 +14,7 @@
 
         <!-- Nav Item - Dashboard -->
         <li class="nav-item active">
-            <a class="nav-link" href="../Adminpages/dashboard2.php">
+            <a class="nav-link" href="../Barangaystaff/dashboardstaff.php">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>Dashboard</span></a>
         </li>
@@ -53,7 +53,7 @@
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header"></h6>
                     <a class="collapse-item" href="utilities-border.html">List of Resident</a>
-                    <a class="collapse-item" href="utilities-animation.html">List of Household</a>
+                    <a class="collapse-item" href="../Barangaystaff/listofhousehold.php">List of Household</a>
                     <a class="collapse-item" href="utilities-other.html">Other</a>
                 </div>
             </div>
