@@ -88,12 +88,19 @@
                                             <td>Edinburgh</td>
                                             <td>61</td>
                                             <td>2011/04/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Garrett Winters</td>
@@ -101,12 +108,19 @@
                                             <td>Tokyo</td>
                                             <td>63</td>
                                             <td>2011/07/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Ashton Cox</td>
@@ -114,12 +128,19 @@
                                             <td>San Francisco</td>
                                             <td>66</td>
                                             <td>2009/01/12</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Cedric Kelly</td>
@@ -127,12 +148,19 @@
                                             <td>Edinburgh</td>
                                             <td>22</td>
                                             <td>2012/03/29</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Airi Satou</td>
@@ -140,12 +168,19 @@
                                             <td>Tokyo</td>
                                             <td>33</td>
                                             <td>2008/11/28</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Brielle Williamson</td>
@@ -153,12 +188,19 @@
                                             <td>New York</td>
                                             <td>61</td>
                                             <td>2012/12/02</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Herrod Chandler</td>
@@ -166,12 +208,19 @@
                                             <td>San Francisco</td>
                                             <td>59</td>
                                             <td>2012/08/06</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         
                                         <tr>
@@ -180,12 +229,19 @@
                                             <td>New York</td>
                                             <td>64</td>
                                             <td>2010/06/09</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Gloria Little</td>
@@ -193,12 +249,19 @@
                                             <td>New York</td>
                                             <td>59</td>
                                             <td>2009/04/10</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Bradley Greer</td>
@@ -206,12 +269,19 @@
                                             <td>London</td>
                                             <td>41</td>
                                             <td>2012/10/13</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Dai Rios</td>
@@ -219,12 +289,19 @@
                                             <td>Edinburgh</td>
                                             <td>35</td>
                                             <td>2012/09/26</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Jenette Caldwell</td>
@@ -232,12 +309,19 @@
                                             <td>New York</td>
                                             <td>30</td>
                                             <td>2011/09/03</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Yuri Berry</td>
@@ -245,12 +329,19 @@
                                             <td>New York</td>
                                             <td>40</td>
                                             <td>2009/06/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Caesar Vance</td>
@@ -258,12 +349,19 @@
                                             <td>New York</td>
                                             <td>21</td>
                                             <td>2011/12/12</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                         <tr>
                                             <td>Donna Snider</td>
@@ -271,11 +369,19 @@
                                             <td>New York</td>
                                             <td>27</td>
                                             <td>2011/01/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
                                                 </span>
                                                 <span class="text">View</span>
-                                            </a></td>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                                <span class="icon text-white-50">
+                                                    <i class=""></i>
+                                                </span>
+                                                <span class="text">Edit</span>
+                                            </a>
+                                        </td>
                                         </tr>
                                     </tbody>
                                 </table>
