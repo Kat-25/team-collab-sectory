@@ -84,7 +84,7 @@
                                             <th>Office</th>
                                             <th>Age</th>
                                             <th>Start date</th>
-                                            <th>View Announcements</th>
+                                            <th>View Household</th>
                                         </tr>
                                     </tfoot>
                                     <tbody>
@@ -94,17 +94,23 @@
                                             <td>Edinburgh</td>
                                             <td>61</td>
                                             <td>2011/04/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -114,17 +120,23 @@
                                             <td>Tokyo</td>
                                             <td>63</td>
                                             <td>2011/07/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -134,17 +146,23 @@
                                             <td>San Francisco</td>
                                             <td>66</td>
                                             <td>2009/01/12</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -154,17 +172,23 @@
                                             <td>Edinburgh</td>
                                             <td>22</td>
                                             <td>2012/03/29</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -174,17 +198,23 @@
                                             <td>Tokyo</td>
                                             <td>33</td>
                                             <td>2008/11/28</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -194,17 +224,23 @@
                                             <td>New York</td>
                                             <td>61</td>
                                             <td>2012/12/02</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -214,17 +250,23 @@
                                             <td>San Francisco</td>
                                             <td>59</td>
                                             <td>2012/08/06</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -235,17 +277,23 @@
                                             <td>New York</td>
                                             <td>64</td>
                                             <td>2010/06/09</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -255,17 +303,23 @@
                                             <td>New York</td>
                                             <td>59</td>
                                             <td>2009/04/10</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -275,17 +329,23 @@
                                             <td>London</td>
                                             <td>41</td>
                                             <td>2012/10/13</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -295,17 +355,23 @@
                                             <td>Edinburgh</td>
                                             <td>35</td>
                                             <td>2012/09/26</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -315,17 +381,23 @@
                                             <td>New York</td>
                                             <td>30</td>
                                             <td>2011/09/03</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -335,17 +407,23 @@
                                             <td>New York</td>
                                             <td>40</td>
                                             <td>2009/06/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -355,17 +433,23 @@
                                             <td>New York</td>
                                             <td>21</td>
                                             <td>2011/12/12</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>
@@ -375,17 +459,23 @@
                                             <td>New York</td>
                                             <td>27</td>
                                             <td>2011/01/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
+                                            <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncement.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Adminpages/viewannouncement.php" class="btn btn-primary btn-icon-split">
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-primary btn-icon-split">
                                                 <span class="icon text-white-50">
                                                     <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncement.php" class="btn btn-danger btn-icon-split">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
                                             </a>
                                              </td>
                                         </tr>

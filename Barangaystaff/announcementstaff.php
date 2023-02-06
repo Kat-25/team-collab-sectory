@@ -76,8 +76,8 @@
                                             <th>Name</th>
                                             <th>Position</th>
                                             <th>Office</th>
-                                            <th>Age</th>
                                             <th>Start date</th>
+                                            <th>End date</th>
                                             <th>View Announcements</th>
                                         </tr>
                                     </thead>
@@ -90,15 +90,23 @@
                                             <td>2011/04/25</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
+                                            </a>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                             </a>
                                         </td>
                                         </tr>
@@ -110,17 +118,23 @@
                                             <td>2011/07/25</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Ashton Cox</td>
@@ -130,17 +144,23 @@
                                             <td>2009/01/12</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Cedric Kelly</td>
@@ -150,17 +170,23 @@
                                             <td>2012/03/29</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Airi Satou</td>
@@ -170,17 +196,23 @@
                                             <td>2008/11/28</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Brielle Williamson</td>
@@ -190,17 +222,23 @@
                                             <td>2012/12/02</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Herrod Chandler</td>
@@ -210,17 +248,23 @@
                                             <td>2012/08/06</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         
                                         <tr>
@@ -231,17 +275,23 @@
                                             <td>2010/06/09</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Gloria Little</td>
@@ -251,17 +301,23 @@
                                             <td>2009/04/10</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Bradley Greer</td>
@@ -271,17 +327,23 @@
                                             <td>2012/10/13</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Dai Rios</td>
@@ -291,17 +353,23 @@
                                             <td>2012/09/26</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Jenette Caldwell</td>
@@ -311,17 +379,23 @@
                                             <td>2011/09/03</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Yuri Berry</td>
@@ -331,17 +405,23 @@
                                             <td>2009/06/25</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Caesar Vance</td>
@@ -351,17 +431,23 @@
                                             <td>2011/12/12</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                         <tr>
                                             <td>Donna Snider</td>
@@ -371,17 +457,23 @@
                                             <td>2011/01/25</td>
                                             <td class="d-flex justify-content-center"><a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-success btn-icon-split">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">View</span>
                                             </a>
-                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-5">
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-primary btn-icon-split ml-3">
                                                 <span class="icon text-white-50">
-                                                    <i class=""></i>
+                                                    <i class="fas fa-flag"></i>
                                                 </span>
                                                 <span class="text">Edit</span>
                                             </a>
-                                        </td>
+                                            <a href="../Barangaystaff/viewannouncementstaff.php" class="btn btn-danger btn-icon-split ml-3">
+                                                <span class="icon text-white-50">
+                                                    <i class="fas fa-flag"></i>
+                                                </span>
+                                                <span class="text">Archive</span>
+                                            </a>
+                                             </td>
                                         </tr>
                                     </tbody>
                                 </table>
