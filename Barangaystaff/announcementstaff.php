@@ -33,7 +33,7 @@
     <div id="wrapper">
 
         <?php
-            include '../Admin/sidebar.php';
+            include '../BStaff/Bsidebar.php';
         ?>
 
         <!-- Content Wrapper -->
@@ -81,16 +81,6 @@
                                             <th>View Announcements</th>
                                         </tr>
                                     </thead>
-                                    <tfoot>
-                                        <tr>
-                                            <th>Name</th>
-                                            <th>Position</th>
-                                            <th>Office</th>
-                                            <th>Age</th>
-                                            <th>Start date</th>
-                                            <th>View Announcements</th>
-                                        </tr>
-                                    </tfoot>
                                     <tbody>
                                         <tr>
                                             <td>Tiger Nixon</td>

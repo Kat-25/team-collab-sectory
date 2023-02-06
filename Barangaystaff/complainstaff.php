@@ -30,7 +30,7 @@
 
         <!-- Sidebar -->
         <?php 
-            include '../Resident/sidebar.php';
+            include '../Bstaff/Bsidebar.php';
         ?>
         <!-- End of Sidebar -->
 

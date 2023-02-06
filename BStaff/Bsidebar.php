@@ -36,7 +36,7 @@
             </a>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
-                    <a class="collapse-item" href="../Adminpages/announcement2.php">Announcement</a>
+                    <a class="collapse-item" href="../Barangaystaff/announcementstaff.php">Announcement</a>
                 </div>
             </div>
         </li>
@@ -86,7 +86,7 @@
 
         <!-- Nav Item - Tables -->
         <li class="nav-item">
-            <a class="nav-link" href="tables.html">
+            <a class="nav-link" href="../Barangaystaff/listofcomplaints.php">
                 <i class="fas fa-fw fa-table"></i>
                 <span>Complaints</span></a>
         </li>
