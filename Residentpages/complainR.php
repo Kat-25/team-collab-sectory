@@ -104,31 +104,42 @@
                                             <label for="exampleFormControlTextarea1">Type your complain/s.</label>
                                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                         </div>
+                                            <div class="row">
+                                                    <div class="col-9">
+                                                    <h2 class="fs-title">Upload Evidence</h2>
+                                                        <div class="radio-group">
+                                                        </div>
+                                                        <div class="form-group">
+                                                                <label for="exampleFormControlFile1">File input</label>
+                                                                <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                                                            </div> 
+                                                    </div>
+                                                    <div class="col-3">
+                                                    </div>
+                                                </div>
+                                    </div>
                                 </div>
-                            </div>
 
                             
 
+                            </div>
+
                         </div>
-
                     </div>
-
                 </div>
                 <!-- /.container-fluid -->
 
             </div>
             <!-- End of Main Content -->
-
         </div>
         <!-- End of Content Wrapper -->
-           
-    </div>
-    <!-- End of Page Wrapper -->
-         <!-- Footer -->
+            <!-- Footer -->
          <?php
                 include '../Resident/footer.php';
             ?>
             <!-- End of Footer -->
+    </div>
+    <!-- End of Page Wrapper -->
 
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded" href="#page-top">

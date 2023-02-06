@@ -123,7 +123,7 @@
                                     <br><br>
                                     <div class="row justify-content-center">
                                         <div class="col-7 text-center">
-                                            <h5>Successfully</h5>
+                                            <h5>"Please wait for the text confirmation about the status of your request."</h5>
                                         </div>
                                     </div>
                                 </div>
