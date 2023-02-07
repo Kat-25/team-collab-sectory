@@ -141,68 +141,154 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card shadow mb-4">
-                        <div class="card-header py-3">
-                            <h6 class="m-0 font-weight-bold text-primary"></h6>
-                        </div>
-                        <div class="card-body">
-                            <div class="table-responsive">
-                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
-                                    <thead>
-                                        <tr>
-                                            <th>Name</th>
-                                            <th>Position</th>
-                                            <th>Office</th>
-                                            <th>Age</th>
-                                            <th>Start date</th>
-                                            <th>View Announcements</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Tiger Nixon</td>
-                                            <td>System Architect</td>
-                                            <td>Edinburgh</td>
-                                            <td>61</td>
-                                            <td>2011/04/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Residentpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">View</span>
-                                            </a></td>
-                                        </tr>
-                                        <tr>
-                                            <td>Garrett Winters</td>
-                                            <td>Accountant</td>
-                                            <td>Tokyo</td>
-                                            <td>63</td>
-                                            <td>2011/07/25</td>
-                                            <td class="d-flex justify-content-center"><a href="../Residentpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">View</span>
-                                            </a></td>
-                                        </tr>
-                                        <tr>
-                                            <td>Ashton Cox</td>
-                                            <td>Junior Technical Author</td>
-                                            <td>San Francisco</td>
-                                            <td>66</td>
-                                            <td>2009/01/12</td>
-                                            <td class="d-flex justify-content-center"><a href="../Residentpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                <span class="icon text-white-50">
-                                                    <i class="fas fa-flag"></i>
-                                                </span>
-                                                <span class="text">View</span>
-                                            </a></td>
-                                        </tr>
-                                        </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
+                     <!-- Page Heading -->
+                     <h1 class="h3 mb-2 text-gray-800"></h1>
+                        <p class="mb-4"><a target="_blank" href=""></a></p>
+                            <!-- DataTales Example -->
+                                    <div class="card shadow mb-4">
+                                        <div class="card-header py-3">
+                                            <h6 class="m-0 font-weight-bold text-success">View Latest Announcements</h6>
+                                        </div>
+                                        <div class="card-body">
+                                            <div class="table-responsive">
+                                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>ID</th>
+                                                            <th></th>
+                                                            <th>Description</th>
+                                                            <th></th>
+                                                            <th>Date</th>
+                                                            
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                           
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                         
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                       
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                       
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                       
+                                                        </tr>
+                                                        
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                      
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                        
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                         
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                         
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                         
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                          
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                         
+                                                        </tr>
+                                                        <tr>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                         
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
              
                 </div>
             
@@ -229,22 +315,22 @@
     <!-- Logout Modal-->
     <?php include '../Resident/logout.php'; ?>
 
-    <!-- Bootstrap core JavaScript-->
-    <script src="../vendor/jquery/jquery.min.js"></script>
-    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+     <!-- Bootstrap core JavaScript-->
+     <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
     <!-- Core plugin JavaScript-->
     <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for all pages-->
     <script src="../js/sb-admin-2.min.js"></script>
-
     <!-- Page level plugins -->
-    <script src="../vendor/chart.js/Chart.min.js"></script>
+    <!-- Page level plugins -->
+    <script src="../vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="../vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
 
     <!-- Page level custom scripts -->
-    <script src="../js/demo/chart-area-demo.js"></script>
-    <script src="../js/demo/chart-pie-demo.js"></script>
+    <script src="../js/demo/datatables-demo.js"></script>
 
 </body>
 
