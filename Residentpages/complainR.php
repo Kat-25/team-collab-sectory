@@ -81,15 +81,15 @@
                                 <div class="form-row">
                                         <div class="form-group col-md-3 col-lg-3">
                                         <label for="inputEmail4">Complainant</label>
-                                        <input type="email" class="form-control" id="inputEmail4">
+                                        <input type="text" class="form-control" id="inputEmail4">
                                         </div>
                                         <div class="form-group col-md-3 col-lg-3">
                                         <label for="inputEmail4">Time Of Incident</label>
-                                        <input type="email" class="form-control" id="inputEmail4">
+                                        <input type="text" class="form-control" id="inputEmail4">
                                         </div>
                                         <div class="form-group col-md-3 col-lg-3">
                                         <label for="inputEmail4">Date Of Incident</label>
-                                        <input type="email" class="form-control" id="inputEmail4">
+                                        <input type="text" class="form-control" id="inputEmail4">
                                         </div>
                                         <div class="form-group col-md-3">
                                         <label for="inputState">Type:</label>
