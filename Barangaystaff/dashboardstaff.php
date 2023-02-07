@@ -144,14 +144,14 @@
                     </div>
 
                     <!-- Content Row -->
-
+                    <!-- 
                     <div class="row">
 
-                        <!-- Area Chart -->
-                        <div class="col-xl-8 col-lg-7">
-                            <div class="card shadow mb-4">
+                        Area Chart
+                        <!-- <div class="col-xl-8 col-lg-7">
+                            <div class="card shadow mb-4"> -->
                                 <!-- Card Header - Dropdown -->
-                                <div
+                                <!-- <div
                                     class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                                     <h6 class="m-0 font-weight-bold text-primary">Resident Overview</h6>
                                     <div class="dropdown no-arrow">
@@ -168,21 +168,21 @@
                                             <a class="dropdown-item" href="#">Something else here</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- Card Body -->
-                                <div class="card-body">
+                                <!-- <div class="card-body">
                                     <div class="chart-area">
                                         <canvas id="myAreaChart"></canvas>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Pie Chart -->
-                        <div class="col-xl-4 col-lg-5">
+                        <!-- <div class="col-xl-4 col-lg-5">
                             <div class="card shadow mb-4">
                                 <!-- Card Header - Dropdown -->
-                                <div
+                                <!-- <div
                                     class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                                     <h6 class="m-0 font-weight-bold text-primary">Revenue Sources</h6>
                                     <div class="dropdown no-arrow">
@@ -199,9 +199,9 @@
                                             <a class="dropdown-item" href="#">Something else here</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- Card Body -->
-                                <div class="card-body">
+                                <!-- <div class="card-body">
                                     <div class="chart-pie pt-4 pb-2">
                                         <canvas id="myPieChart"></canvas>
                                     </div>
@@ -219,7 +219,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- Content Row -->
                     <div class="row">
@@ -238,209 +238,135 @@
                                                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>View Announcements</th>
+                                                            <th>ID</th>
+                                                            <th></th>
+                                                            <th>Desctiption</th>
+                                                            <th></th>
+                                                            <th>Date</th>
+                                                            <th></th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
                                                         <tr>
                                                             <td>Tiger Nixon</td>
+                                                            <th></th>
                                                             <td>System Architect</td>
-                                                            <td>Edinburgh</td>
-                                                            <td>61</td>
+                                                            <th></th>
                                                             <td>2011/04/25</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Garrett Winters</td>
-                                                            <td>Accountant</td>
-                                                            <td>Tokyo</td>
-                                                            <td>63</td>
-                                                            <td>2011/07/25</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Ashton Cox</td>
-                                                            <td>Junior Technical Author</td>
-                                                            <td>San Francisco</td>
-                                                            <td>66</td>
-                                                            <td>2009/01/12</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Cedric Kelly</td>
-                                                            <td>Senior Javascript Developer</td>
-                                                            <td>Edinburgh</td>
-                                                            <td>22</td>
-                                                            <td>2012/03/29</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Airi Satou</td>
-                                                            <td>Accountant</td>
-                                                            <td>Tokyo</td>
-                                                            <td>33</td>
-                                                            <td>2008/11/28</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Brielle Williamson</td>
-                                                            <td>Integration Specialist</td>
-                                                            <td>New York</td>
-                                                            <td>61</td>
-                                                            <td>2012/12/02</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Herrod Chandler</td>
-                                                            <td>Sales Assistant</td>
-                                                            <td>San Francisco</td>
-                                                            <td>59</td>
-                                                            <td>2012/08/06</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         
                                                         <tr>
-                                                            <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
-                                                            <td>New York</td>
-                                                            <td>64</td>
-                                                            <td>2010/06/09</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Gloria Little</td>
-                                                            <td>Systems Administrator</td>
-                                                            <td>New York</td>
-                                                            <td>59</td>
-                                                            <td>2009/04/10</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Bradley Greer</td>
-                                                            <td>Software Engineer</td>
-                                                            <td>London</td>
-                                                            <td>41</td>
-                                                            <td>2012/10/13</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Dai Rios</td>
-                                                            <td>Personnel Lead</td>
-                                                            <td>Edinburgh</td>
-                                                            <td>35</td>
-                                                            <td>2012/09/26</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Jenette Caldwell</td>
-                                                            <td>Development Lead</td>
-                                                            <td>New York</td>
-                                                            <td>30</td>
-                                                            <td>2011/09/03</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
-                                                            <td>New York</td>
-                                                            <td>40</td>
-                                                            <td>2009/06/25</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Caesar Vance</td>
-                                                            <td>Pre-Sales Support</td>
-                                                            <td>New York</td>
-                                                            <td>21</td>
-                                                            <td>2011/12/12</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">
-                                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                         <tr>
-                                                            <td>Donna Snider</td>
-                                                            <td>Customer Support</td>
-                                                            <td>New York</td>
-                                                            <td>27</td>
-                                                            <td>2011/01/25</td>
-                                                            <td class="d-flex justify-content-center"><a href="../Adminpages/viewannouncement.php" class="btn btn-success btn-icon-split">                                                <span class="icon text-white-50">
-                                                                    <i class="fas fa-flag"></i>
-                                                                </span>
-                                                                <span class="text">View</span>
-                                                            </a></td>
+                                                        <td>Tiger Nixon</td>
+                                                            <th></th>
+                                                            <td>System Architect</td>
+                                                            <th></th>
+                                                            <td>2011/04/25</td>
+                                                            <th></th>
                                                         </tr>
                                                     </tbody>
                                                 </table>
