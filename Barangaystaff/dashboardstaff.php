@@ -240,7 +240,7 @@
                                                         <tr>
                                                             <th>ID</th>
                                                             <th></th>
-                                                            <th>Desctiption</th>
+                                                            <th>Description</th>
                                                             <th></th>
                                                             <th>Date</th>
                                                             <th></th>

@@ -68,11 +68,9 @@
                                         </a>
                                         <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
                                             aria-labelledby="dropdownMenuLink">
-                                            <div class="dropdown-header">Level of Complaint:</div>
-                                            <a class="dropdown-item" href="#">Archive</a>
+                                            <div class="dropdown-header">:</div>
+                                            <a class="dropdown-item" href="#">CANCEL</a>
                                             <a class="dropdown-item" href="#"></a>
-                                            <div class="dropdown-divider"></div>
-                                            <a class="dropdown-item" href="#">Something else here</a>
                                         </div>
                                     </div>
                                 </div>
@@ -81,18 +79,20 @@
                                     
                                 <div class="form-group">
                                 <div class="form-row">
-                                        <div class="form-group col-md-6">
-                                        <label for="inputEmail4">Email</label>
+                                        <div class="form-group col-md-3 col-lg-3">
+                                        <label for="inputEmail4">Complainant</label>
                                         <input type="email" class="form-control" id="inputEmail4">
                                         </div>
-                                    </div>
-                                    <div class="form-row">
-                                        <div class="form-group col-md-6">
-                                        <label for="">Complaint Title</label>
-                                        <input type="text" class="form-control" id="">
+                                        <div class="form-group col-md-3 col-lg-3">
+                                        <label for="inputEmail4">Time Of Incident</label>
+                                        <input type="email" class="form-control" id="inputEmail4">
                                         </div>
-                                        <div class="form-group col-md-4">
-                                        <label for="inputState">Level of complain:</label>
+                                        <div class="form-group col-md-3 col-lg-3">
+                                        <label for="inputEmail4">Date Of Incident</label>
+                                        <input type="email" class="form-control" id="inputEmail4">
+                                        </div>
+                                        <div class="form-group col-md-3">
+                                        <label for="inputState">Type:</label>
                                         <select id="inputState" class="form-control">
                                             <option selected>Choose...</option>
                                             <option>high</option>
@@ -100,12 +100,19 @@
                                             <option>low</option>
                                         </select>
                                         </div>
+                                    </div>
+                                    <div class="form-row">
+                                        <div class="form-group col-md-3 col-lg-3">
+                                        <label for="">Title</label>
+                                        <input type="text" class="form-control" id="">
+                                        </div>
+                                        
                                         <div class="col-lg-12">
                                             <label for="exampleFormControlTextarea1">Type your complain/s.</label>
                                             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                         </div>
-                                            <div class="row">
-                                                    <div class="col-9">
+                                            <div class="row ml-5">
+                                                    <div class="col mt-5">
                                                     <h2 class="fs-title">Upload Evidence</h2>
                                                         <div class="radio-group">
                                                         </div>
