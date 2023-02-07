@@ -29,10 +29,6 @@
     <div id="wrapper">
 
      <!-- Sidebar -->
-     <?php
-     include './Resident/sidebar.php';
-     ?>
-
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
 
